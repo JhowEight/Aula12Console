@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Aula12Classes\Aula12Classes\bin\Debug\net7.0\Aula12Classes.exe
+C:\Users\DELL\source\repos\Aula12Classes\Aula12Classes\bin\Debug\net7.0\Aula12Classes.deps.json
+C:\Users\DELL\source\repos\Aula12Classes\Aula12Classes\bin\Debug\net7.0\Aula12Classes.runtimeconfig.json
+C:\Users\DELL\source\repos\Aula12Classes\Aula12Classes\bin\Debug\net7.0\Aula12Classes.dll
+C:\Users\DELL\source\repos\Aula12Classes\Aula12Classes\bin\Debug\net7.0\Aula12Classes.pdb
+C:\Users\DELL\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.dll
+C:\Users\DELL\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\refint\Aula12Classes.dll
+C:\Users\DELL\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.pdb
+C:\Users\DELL\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\Aula12Classes.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Aula12Classes\Aula12Classes\obj\Debug\net7.0\ref\Aula12Classes.dll
